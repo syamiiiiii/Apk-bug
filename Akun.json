@@ -25,5 +25,12 @@
     "expiresAt": 1758425750346,
     "createdAt": 1758339350346,
     "role": "reseller"
+  },
+  {
+    "username": "abcd",
+    "password": "123",
+    "expiresAt": 1758425769581,
+    "createdAt": 1758339369581,
+    "role": "owner"
   }
 ]
