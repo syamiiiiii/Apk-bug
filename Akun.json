@@ -19,12 +19,5 @@
     "role": "reseller",
     "expiresAt": 1758441432755,
     "createdAt": 1758355032755
-  },
-  {
-    "username": "tes",
-    "password": "1",
-    "role": "owner",
-    "expiresAt": 1784275381336,
-    "createdAt": 1758355381336
   }
 ]
