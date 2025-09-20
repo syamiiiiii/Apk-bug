@@ -12,12 +12,5 @@
     "role": "user",
     "expiresAt": 1758956116399,
     "createdAt": 1758351316399
-  },
-  {
-    "username": "api",
-    "password": "api",
-    "role": "reseller",
-    "expiresAt": 1758441432755,
-    "createdAt": 1758355032755
   }
 ]
