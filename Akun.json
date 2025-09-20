@@ -24,7 +24,7 @@
     "username": "145",
     "password": "1",
     "role": "user",
-    "expiresAt": null,
+    "expiresAt": 1,
     "createdAt": 1758365473428
   }
 ]
