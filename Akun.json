@@ -32,5 +32,12 @@
     "expiresAt": 1758425769581,
     "createdAt": 1758339369581,
     "role": "owner"
+  },
+  {
+    "username": "anda",
+    "password": "123",
+    "expiresAt": 1760933169416,
+    "createdAt": 1758341169416,
+    "role": "user"
   }
 ]
