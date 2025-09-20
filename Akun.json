@@ -14,7 +14,7 @@
   },
   {
     "username": "jhon",
-    "password": "pass123",
+    "password": "123",
     "role": "user",
     "expiresAt": 1758956116399,
     "createdAt": 1758351316399
