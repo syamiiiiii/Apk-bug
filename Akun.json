@@ -1,12 +1,5 @@
 [
   {
-    "username": "apaan",
-    "password": "1",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1758368162049
-  },
-  {
     "username": "admin",
     "password": "1",
     "role": "reseller",
