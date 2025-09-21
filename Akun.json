@@ -26,12 +26,5 @@
     "role": "reseller",
     "expiresAt": 1758455912120,
     "createdAt": 1758369512120
-  },
-  {
-    "username": "buyer",
-    "password": "buyer",
-    "role": "owner",
-    "expiresAt": 1758507306879,
-    "createdAt": 1758420906879
   }
 ]
