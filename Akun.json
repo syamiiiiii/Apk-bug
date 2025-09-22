@@ -12,5 +12,12 @@
     "role": "owner",
     "expiresAt": 1761136082548,
     "createdAt": 1758544082548
+  },
+  {
+    "username": "piko",
+    "password": "piko123",
+    "role": "user",
+    "expiresAt": 1761177408865,
+    "createdAt": 1758585408865
   }
 ]
