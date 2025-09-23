@@ -61,5 +61,12 @@
     "role": "user",
     "expiresAt": 1761228172583,
     "createdAt": 1758636172583
+  },
+  {
+    "username": "xiwang",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761228209899,
+    "createdAt": 1758636209899
   }
 ]
