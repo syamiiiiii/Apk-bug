@@ -1,12 +1,5 @@
 [
   {
-    "username": "maklu",
-    "password": "1",
-    "role": "owner",
-    "expiresAt": 1758538150524,
-    "createdAt": 1758451750524
-  },
-  {
     "username": "Zypp",
     "password": "1",
     "role": "owner",
