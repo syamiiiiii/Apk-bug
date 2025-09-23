@@ -26,5 +26,12 @@
     "role": "reseller",
     "expiresAt": 1761227590511,
     "createdAt": 1758635590511
+  },
+  {
+    "username": "Zora",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1758635941173
   }
 ]
