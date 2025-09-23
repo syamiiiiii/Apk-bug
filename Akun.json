@@ -68,5 +68,12 @@
     "role": "user",
     "expiresAt": 1761228209899,
     "createdAt": 1758636209899
+  },
+  {
+    "username": "zenn",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761228252465,
+    "createdAt": 1758636252465
   }
 ]
