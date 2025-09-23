@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": 1761177408865,
     "createdAt": 1758585408865
+  },
+  {
+    "username": "Amelia",
+    "password": "1",
+    "role": "owner",
+    "expiresAt": 1761227571691,
+    "createdAt": 1758635571691
   }
 ]
