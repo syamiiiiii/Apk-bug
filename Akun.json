@@ -47,5 +47,12 @@
     "role": "user",
     "expiresAt": 1761228070955,
     "createdAt": 1758636070955
+  },
+  {
+    "username": "Andikawb",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761228125344,
+    "createdAt": 1758636125344
   }
 ]
