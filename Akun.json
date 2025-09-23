@@ -54,5 +54,12 @@
     "role": "user",
     "expiresAt": 1761228125344,
     "createdAt": 1758636125344
+  },
+  {
+    "username": "Xeno",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761228172583,
+    "createdAt": 1758636172583
   }
 ]
