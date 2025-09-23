@@ -19,12 +19,5 @@
     "role": "user",
     "expiresAt": 1761177408865,
     "createdAt": 1758585408865
-  },
-  {
-    "username": "Tian",
-    "password": "PESISIR 301",
-    "role": "owner",
-    "expiresAt": 1761216740463,
-    "createdAt": 1758624740463
   }
 ]
