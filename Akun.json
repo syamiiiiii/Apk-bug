@@ -82,5 +82,12 @@
     "role": "user",
     "expiresAt": 1761228298912,
     "createdAt": 1758636298912
+  },
+  {
+    "username": "setau",
+    "password": "betrix",
+    "role": "user",
+    "expiresAt": 1761291329446,
+    "createdAt": 1758699329446
   }
 ]
