@@ -103,12 +103,5 @@
     "role": "user",
     "expiresAt": 1758701469075,
     "createdAt": 1758701469075
-  },
-  {
-    "username": "Sansi",
-    "password": "Sansi090913",
-    "role": "user",
-    "expiresAt": 1767341634771,
-    "createdAt": 1758701634771
   }
 ]
