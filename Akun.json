@@ -89,5 +89,12 @@
     "role": "user",
     "expiresAt": 1761291329446,
     "createdAt": 1758699329446
+  },
+  {
+    "username": "firman",
+    "password": "1307",
+    "role": "reseller",
+    "expiresAt": 1845014583999,
+    "createdAt": 1758700983999
   }
 ]
