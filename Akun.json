@@ -152,5 +152,12 @@
     "role": "user",
     "expiresAt": 1767356876969,
     "createdAt": 1758716876969
+  },
+  {
+    "username": "zynxx",
+    "password": "0101",
+    "role": "user",
+    "expiresAt": 1761308994029,
+    "createdAt": 1758716994029
   }
 ]
