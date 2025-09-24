@@ -159,5 +159,12 @@
     "role": "user",
     "expiresAt": 1761308994029,
     "createdAt": 1758716994029
+  },
+  {
+    "username": "yanzz",
+    "password": "yanz1",
+    "role": "reseller",
+    "expiresAt": 1845030932302,
+    "createdAt": 1758717332302
   }
 ]
