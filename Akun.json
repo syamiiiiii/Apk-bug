@@ -103,5 +103,12 @@
     "role": "user",
     "expiresAt": 1767341739545,
     "createdAt": 1758701739545
+  },
+  {
+    "username": "Nugzgtg",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1766478256467,
+    "createdAt": 1758702256467
   }
 ]
