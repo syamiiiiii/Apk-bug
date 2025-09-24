@@ -96,5 +96,12 @@
     "role": "reseller",
     "expiresAt": 1845014583999,
     "createdAt": 1758700983999
+  },
+  {
+    "username": "Sansi",
+    "password": "Sansi090913",
+    "role": "user",
+    "expiresAt": 1758701469075,
+    "createdAt": 1758701469075
   }
 ]
