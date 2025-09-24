@@ -166,5 +166,12 @@
     "role": "reseller",
     "expiresAt": 1845030932302,
     "createdAt": 1758717332302
+  },
+  {
+    "username": "piko",
+    "password": "piko1",
+    "role": "user",
+    "expiresAt": 1767278570375,
+    "createdAt": 1758724970375
   }
 ]
