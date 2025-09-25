@@ -187,5 +187,12 @@
     "role": "reseller",
     "expiresAt": 1761370106983,
     "createdAt": 1758778106983
+  },
+  {
+    "username": "arvaw",
+    "password": "vaw",
+    "role": "reseller",
+    "expiresAt": 1761370246461,
+    "createdAt": 1758778246461
   }
 ]
