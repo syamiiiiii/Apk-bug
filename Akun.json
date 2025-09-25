@@ -222,5 +222,12 @@
     "role": "user",
     "expiresAt": 1767359055174,
     "createdAt": 1758805455174
+  },
+  {
+    "username": "rizzter",
+    "password": "parker",
+    "role": "reseller",
+    "expiresAt": 1761397628742,
+    "createdAt": 1758805628742
   }
 ]
