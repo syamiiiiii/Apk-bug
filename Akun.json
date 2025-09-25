@@ -229,5 +229,12 @@
     "role": "reseller",
     "expiresAt": 1761397628742,
     "createdAt": 1758805628742
+  },
+  {
+    "username": "Devil",
+    "password": "anj",
+    "role": "user",
+    "expiresAt": 1762261991733,
+    "createdAt": 1758805991733
   }
 ]
