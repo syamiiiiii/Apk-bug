@@ -194,5 +194,12 @@
     "role": "reseller",
     "expiresAt": 1761370246461,
     "createdAt": 1758778246461
+  },
+  {
+    "username": "Ryuichi",
+    "password": "Ryu22",
+    "role": "user",
+    "expiresAt": 1845093534292,
+    "createdAt": 1758779934292
   }
 ]
