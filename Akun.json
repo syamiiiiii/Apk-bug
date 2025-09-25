@@ -180,5 +180,12 @@
     "role": "user",
     "expiresAt": 1845089881589,
     "createdAt": 1758776281589
+  },
+  {
+    "username": "arvaw",
+    "password": "paw",
+    "role": "reseller",
+    "expiresAt": 1761370106983,
+    "createdAt": 1758778106983
   }
 ]
