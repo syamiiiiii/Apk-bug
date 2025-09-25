@@ -257,5 +257,12 @@
     "role": "reseller",
     "expiresAt": 1845131994247,
     "createdAt": 1758818394247
+  },
+  {
+    "username": "MNS",
+    "password": "MNS80",
+    "role": "user",
+    "expiresAt": 1761411228977,
+    "createdAt": 1758819228977
   }
 ]
