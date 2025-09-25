@@ -250,5 +250,12 @@
     "role": "reseller",
     "expiresAt": 1845131893242,
     "createdAt": 1758818293242
+  },
+  {
+    "username": "Andra",
+    "password": "12",
+    "role": "reseller",
+    "expiresAt": 1845131994247,
+    "createdAt": 1758818394247
   }
 ]
