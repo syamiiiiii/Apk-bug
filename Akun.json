@@ -145,12 +145,5 @@
     "role": "user",
     "expiresAt": 1761307056074,
     "createdAt": 1758715056074
-  },
-  {
-    "username": "binz001",
-    "password": "0011",
-    "role": "user",
-    "expiresAt": 1767356876969,
-    "createdAt": 1758716876969
   }
 ]
