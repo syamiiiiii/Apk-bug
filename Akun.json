@@ -7,13 +7,6 @@
     "createdAt": 1758544082548
   },
   {
-    "username": "maklo",
-    "password": "piko123",
-    "role": "user",
-    "expiresAt": 1761177408865,
-    "createdAt": 1758585408865
-  },
-  {
     "username": "Amelia",
     "password": "1",
     "role": "owner",
