@@ -264,5 +264,12 @@
     "role": "user",
     "expiresAt": 1761411228977,
     "createdAt": 1758819228977
+  },
+  {
+    "username": "lana",
+    "password": "wow",
+    "role": "reseller",
+    "expiresAt": 99999,
+    "createdAt": 1758865193290
   }
 ]
