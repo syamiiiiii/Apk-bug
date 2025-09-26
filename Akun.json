@@ -180,12 +180,5 @@
     "role": "user",
     "expiresAt": 1845089881589,
     "createdAt": 1758776281589
-  },
-  {
-    "username": "Ryuichi",
-    "password": "Ryu22",
-    "role": "user",
-    "expiresAt": 1845093534292,
-    "createdAt": 1758779934292
   }
 ]
