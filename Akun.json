@@ -1,12 +1,5 @@
 [
   {
-    "username": "Zypp",
-    "password": "1",
-    "role": "owner",
-    "expiresAt": 1761136082548,
-    "createdAt": 1758544082548
-  },
-  {
     "username": "firman",
     "password": "1307",
     "role": "reseller",
