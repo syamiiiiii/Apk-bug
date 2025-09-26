@@ -236,12 +236,5 @@
     "role": "user",
     "expiresAt": 1762261991733,
     "createdAt": 1758805991733
-  },
-  {
-    "username": "Tsutomu",
-    "password": "ijay",
-    "role": "user",
-    "expiresAt": 1761407647074,
-    "createdAt": 1758815647074
   }
 ]
