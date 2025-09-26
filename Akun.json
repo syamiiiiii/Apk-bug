@@ -269,14 +269,7 @@
     "username": "lana",
     "password": "wow",
     "role": "reseller",
-    "expiresAt": 99999,
+    "expiresAt": 9999999999999,
     "createdAt": 1758865193290
-  },
-  {
-    "username": "Jarr",
-    "password": "111",
-    "role": "reseller",
-    "expiresAt": 99999,
-    "createdAt": 1758865260208
   }
 ]
