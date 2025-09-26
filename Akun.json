@@ -201,12 +201,5 @@
     "role": "reseller",
     "expiresAt": 1761397003945,
     "createdAt": 1758805003945
-  },
-  {
-    "username": "Fazx",
-    "password": "Blek22",
-    "role": "user",
-    "expiresAt": 1761397074767,
-    "createdAt": 1758805074767
   }
 ]
