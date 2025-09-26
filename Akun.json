@@ -84,13 +84,6 @@
     "createdAt": 1758636298912
   },
   {
-    "username": "setau",
-    "password": "betrix",
-    "role": "user",
-    "expiresAt": 1761291329446,
-    "createdAt": 1758699329446
-  },
-  {
     "username": "firman",
     "password": "1307",
     "role": "reseller",
