@@ -124,12 +124,5 @@
     "role": "user",
     "expiresAt": 1761305785852,
     "createdAt": 1758713785852
-  },
-  {
-    "username": "Rizz",
-    "password": "ytta",
-    "role": "user",
-    "expiresAt": 1761306921037,
-    "createdAt": 1758714921037
   }
 ]
