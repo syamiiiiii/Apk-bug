@@ -208,12 +208,5 @@
     "role": "user",
     "expiresAt": 1761397074767,
     "createdAt": 1758805074767
-  },
-  {
-    "username": "poke",
-    "password": "123",
-    "role": "reseller",
-    "expiresAt": 1845118692713,
-    "createdAt": 1758805092713
   }
 ]
