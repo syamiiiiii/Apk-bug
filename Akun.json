@@ -103,12 +103,5 @@
     "role": "user",
     "expiresAt": 1767341739545,
     "createdAt": 1758701739545
-  },
-  {
-    "username": "vano",
-    "password": "alvano1234",
-    "role": "user",
-    "expiresAt": 1761300178519,
-    "createdAt": 1758708178519
   }
 ]
