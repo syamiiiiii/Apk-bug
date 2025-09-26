@@ -105,13 +105,6 @@
     "createdAt": 1758701739545
   },
   {
-    "username": "Nugzgtg",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1766478256467,
-    "createdAt": 1758702256467
-  },
-  {
     "username": "vano",
     "password": "alvano1234",
     "role": "user",
@@ -138,19 +131,5 @@
     "role": "user",
     "expiresAt": 1761306921037,
     "createdAt": 1758714921037
-  },
-  {
-    "username": "poke",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1767424940080,
-    "createdAt": 1758871340080
-  },
-  {
-    "username": "xa",
-    "password": "xa",
-    "role": "reseller",
-    "expiresAt": 1766648096861,
-    "createdAt": 1758872096861
   }
 ]
