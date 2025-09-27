@@ -26,5 +26,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1758928695475
+  },
+  {
+    "username": "Entah",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761532944016,
+    "createdAt": 1758940944016
   }
 ]
