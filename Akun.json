@@ -52,7 +52,7 @@
     "username": "Jarr",
     "password": "wow",
     "role": "owner",
-    "expiresAt": 98888999,
+    "expiresAt": 1e+23,
     "createdAt": 1758961210066
   },
   {
