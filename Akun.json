@@ -75,5 +75,12 @@
     "role": "reseller",
     "expiresAt": 1761578508603,
     "createdAt": 1758986508603
+  },
+  {
+    "username": "mora",
+    "password": "Mora123",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1758990387960
   }
 ]
