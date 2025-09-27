@@ -82,5 +82,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1758990387960
+  },
+  {
+    "username": "kyl",
+    "password": "1",
+    "role": "owner",
+    "expiresAt": 1761608013954,
+    "createdAt": 1759016013954
   }
 ]
