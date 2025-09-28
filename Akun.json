@@ -40,12 +40,5 @@
     "role": "user",
     "expiresAt": 1845267400053,
     "createdAt": 1758953800053
-  },
-  {
-    "username": "lana",
-    "password": "kontol",
-    "role": "reseller",
-    "expiresAt": 1761549247591,
-    "createdAt": 1758957170576
   }
 ]
