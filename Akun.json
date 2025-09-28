@@ -16,7 +16,7 @@
   {
     "username": "Tes",
     "password": "1",
-    "role": "user",
+    "role": "reseller",
     "expiresAt": null,
     "createdAt": 1759067327511
   }
