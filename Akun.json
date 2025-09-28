@@ -47,12 +47,5 @@
     "role": "reseller",
     "expiresAt": 1761549247591,
     "createdAt": 1758957170576
-  },
-  {
-    "username": "Jarr",
-    "password": "wow",
-    "role": "owner",
-    "expiresAt": 1e+23,
-    "createdAt": 1758961210066
   }
 ]
