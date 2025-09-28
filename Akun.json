@@ -33,12 +33,5 @@
     "role": "user",
     "expiresAt": 1761542061949,
     "createdAt": 1758950061951
-  },
-  {
-    "username": "zora",
-    "password": "12",
-    "role": "user",
-    "expiresAt": 1845267400053,
-    "createdAt": 1758953800053
   }
 ]
