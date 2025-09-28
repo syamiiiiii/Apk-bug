@@ -9,7 +9,7 @@
   {
     "username": "Jarr",
     "password": "wow",
-    "role": "reseller",
+    "role": "owner",
     "expiresAt": 99999999,
     "createdAt": 1759060109938
   }
