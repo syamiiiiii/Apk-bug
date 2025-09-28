@@ -19,5 +19,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1759067327511
+  },
+  {
+    "username": "Arif",
+    "password": "171110",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1759076558643
   }
 ]
