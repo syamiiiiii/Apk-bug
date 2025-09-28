@@ -26,12 +26,5 @@
     "role": "user",
     "expiresAt": 1761532944016,
     "createdAt": 1758940944016
-  },
-  {
-    "username": "nando",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1761542061949,
-    "createdAt": 1758950061951
   }
 ]
