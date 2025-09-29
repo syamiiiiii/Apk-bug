@@ -26,5 +26,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1759076558643
+  },
+  {
+    "username": "tester",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1761726210767,
+    "createdAt": 1759134210767
   }
 ]
