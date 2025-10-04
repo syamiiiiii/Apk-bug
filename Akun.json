@@ -51,7 +51,7 @@
   {
     "username": "Ibra",
     "password": "KylX",
-    "role": "reseller",
+    "role": "user",
     "expiresAt": 1762133002643,
     "createdAt": 1759541002643
   },
@@ -61,12 +61,5 @@
     "role": "",
     "expiresAt": null,
     "createdAt": 1759541999888
-  },
-  {
-    "username": "Jarr",
-    "password": "wow",
-    "role": "reseller",
-    "expiresAt": 99999999,
-    "createdAt": 1759542088842
   }
 ]
