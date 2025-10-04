@@ -75,12 +75,5 @@
     "role": "",
     "expiresAt": null,
     "createdAt": 1759545154030
-  },
-  {
-    "username": "TIANX",
-    "password": "301",
-    "role": "reseller",
-    "expiresAt": 1762137839912,
-    "createdAt": 1759545839912
   }
 ]
