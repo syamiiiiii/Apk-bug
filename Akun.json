@@ -82,5 +82,12 @@
     "role": "user",
     "expiresAt": 1845880485895,
     "createdAt": 1759566885895
+  },
+  {
+    "username": "Kill",
+    "password": "Kill01",
+    "role": "user",
+    "expiresAt": 1762247519929,
+    "createdAt": 1759569119935
   }
 ]
