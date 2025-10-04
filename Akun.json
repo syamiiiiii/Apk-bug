@@ -61,5 +61,12 @@
     "role": "reseller",
     "expiresAt": 1845866276796,
     "createdAt": 1759552676796
+  },
+  {
+    "username": "syfajagad",
+    "password": "meou123",
+    "role": "user",
+    "expiresAt": 1762155705622,
+    "createdAt": 1759563705622
   }
 ]
