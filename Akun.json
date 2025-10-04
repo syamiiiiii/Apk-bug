@@ -96,5 +96,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1759569144949
+  },
+  {
+    "username": "tianx",
+    "password": "301",
+    "role": "reseller",
+    "expiresAt": 1762164748068,
+    "createdAt": 1759572748068
   }
 ]
