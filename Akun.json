@@ -124,5 +124,12 @@
     "role": "user",
     "expiresAt": 1762166212309,
     "createdAt": 1759574212309
+  },
+  {
+    "username": "Kontol",
+    "password": "123",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1759589232181
   }
 ]
