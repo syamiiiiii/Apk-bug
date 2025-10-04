@@ -47,5 +47,12 @@
     "role": "owner",
     "expiresAt": null,
     "createdAt": 1759540959617
+  },
+  {
+    "username": "Ibra",
+    "password": "KylX",
+    "role": "user",
+    "expiresAt": 1762133002643,
+    "createdAt": 1759541002643
   }
 ]
