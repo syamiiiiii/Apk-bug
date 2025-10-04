@@ -54,5 +54,12 @@
     "role": "user",
     "expiresAt": 1762133002643,
     "createdAt": 1759541002643
+  },
+  {
+    "username": "Killstore01",
+    "password": "killstore678",
+    "role": "reseller",
+    "expiresAt": 1845866276796,
+    "createdAt": 1759552676796
   }
 ]
