@@ -117,5 +117,12 @@
     "role": "user",
     "expiresAt": 8132545630,
     "createdAt": 1759574069508
+  },
+  {
+    "username": "dilzxdc",
+    "password": "1212",
+    "role": "user",
+    "expiresAt": 1762166212309,
+    "createdAt": 1759574212309
   }
 ]
