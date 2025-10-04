@@ -68,5 +68,12 @@
     "role": "user",
     "expiresAt": 1762155705622,
     "createdAt": 1759563705622
+  },
+  {
+    "username": "Belz",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1762156174319,
+    "createdAt": 1759564174319
   }
 ]
