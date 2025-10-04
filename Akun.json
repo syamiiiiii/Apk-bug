@@ -103,5 +103,12 @@
     "role": "reseller",
     "expiresAt": 1762164748068,
     "createdAt": 1759572748068
+  },
+  {
+    "username": "dilzxdc",
+    "password": "1212",
+    "role": "user",
+    "expiresAt": 1762252098081,
+    "createdAt": 1759573698084
   }
 ]
