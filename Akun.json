@@ -180,5 +180,12 @@
     "role": "user",
     "expiresAt": 1762248502973,
     "createdAt": 1759656502973
+  },
+  {
+    "username": "Lanzz",
+    "password": "1212",
+    "role": "user",
+    "expiresAt": 1768299821225,
+    "createdAt": 1759659821225
   }
 ]
