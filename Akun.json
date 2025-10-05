@@ -201,5 +201,12 @@
     "role": "user",
     "expiresAt": 30,
     "createdAt": 1759666535110
+  },
+  {
+    "username": "anjir",
+    "password": "123123",
+    "role": "user",
+    "expiresAt": 1768306631918,
+    "createdAt": 1759666631918
   }
 ]
