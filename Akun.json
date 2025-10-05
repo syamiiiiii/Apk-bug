@@ -138,5 +138,12 @@
     "role": "user",
     "expiresAt": 1768230970825,
     "createdAt": 1759590970825
+  },
+  {
+    "username": "mewing",
+    "password": "labubust",
+    "role": "user",
+    "expiresAt": 1845948440460,
+    "createdAt": 1759634840460
   }
 ]
