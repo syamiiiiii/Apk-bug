@@ -187,5 +187,12 @@
     "role": "user",
     "expiresAt": 1768299821225,
     "createdAt": 1759659821225
+  },
+  {
+    "username": "samsul01999",
+    "password": "lkb999aja",
+    "role": "user",
+    "expiresAt": 1762255480779,
+    "createdAt": 1759663480779
   }
 ]
