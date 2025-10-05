@@ -194,5 +194,12 @@
     "role": "user",
     "expiresAt": 1762255480779,
     "createdAt": 1759663480779
+  },
+  {
+    "username": "piw",
+    "password": "rapiw",
+    "role": "user",
+    "expiresAt": 30,
+    "createdAt": 1759666535110
   }
 ]
