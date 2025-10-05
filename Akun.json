@@ -152,5 +152,12 @@
     "role": "user",
     "expiresAt": 1762232136316,
     "createdAt": 1759640136316
+  },
+  {
+    "username": "Dafz",
+    "password": "1234",
+    "role": "user",
+    "expiresAt": 1760850927967,
+    "createdAt": 1759641327967
   }
 ]
