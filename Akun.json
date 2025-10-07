@@ -243,5 +243,12 @@
     "role": "user",
     "expiresAt": 1768329787188,
     "createdAt": 1759776187188
+  },
+  {
+    "username": "Admin",
+    "password": "AdminRc",
+    "role": "user",
+    "expiresAt": 1762486348048,
+    "createdAt": 1759807948055
   }
 ]
