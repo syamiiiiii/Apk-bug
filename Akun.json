@@ -250,5 +250,12 @@
     "role": "user",
     "expiresAt": 1762486348048,
     "createdAt": 1759807948055
+  },
+  {
+    "username": "BAYU",
+    "password": "224466",
+    "role": "user",
+    "expiresAt": 1762438034185,
+    "createdAt": 1759846034185
   }
 ]
