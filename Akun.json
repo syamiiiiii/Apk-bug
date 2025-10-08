@@ -271,5 +271,12 @@
     "role": "user",
     "expiresAt": 1760007379800,
     "createdAt": 1759920979800
+  },
+  {
+    "username": "ranga",
+    "password": "rangka10",
+    "role": "user",
+    "expiresAt": 1760007440397,
+    "createdAt": 1759921040397
   }
 ]
