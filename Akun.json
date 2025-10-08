@@ -1,12 +1,5 @@
 [
   {
-    "username": "Jarr",
-    "password": "wow",
-    "role": "owner",
-    "expiresAt": 1e+23,
-    "createdAt": 1759060109938
-  },
-  {
     "username": "Tes",
     "password": "1",
     "role": "reseller",
