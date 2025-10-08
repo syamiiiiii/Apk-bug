@@ -252,13 +252,6 @@
     "createdAt": 1759915868355
   },
   {
-    "username": "owner",
-    "password": "Killstore",
-    "role": "reseller",
-    "expiresAt": 11455899457874,
-    "createdAt": 1759918657874
-  },
-  {
     "username": "rangga",
     "password": "rangga112",
     "role": "user",
