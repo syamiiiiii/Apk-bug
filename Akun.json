@@ -257,5 +257,12 @@
     "role": "reseller",
     "expiresAt": 11455899457874,
     "createdAt": 1759918657874
+  },
+  {
+    "username": "rangga",
+    "password": "rangga112",
+    "role": "user",
+    "expiresAt": 1,
+    "createdAt": 1759920707850
   }
 ]
