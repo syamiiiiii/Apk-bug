@@ -236,5 +236,12 @@
     "role": "user",
     "expiresAt": 1762438034185,
     "createdAt": 1759846034185
+  },
+  {
+    "username": "Xfloid",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1759914539704
   }
 ]
