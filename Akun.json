@@ -313,5 +313,12 @@
     "role": "user",
     "expiresAt": 1762612308106,
     "createdAt": 1760020308106
+  },
+  {
+    "username": "SLINCE",
+    "password": "SLIN",
+    "role": "reseller",
+    "expiresAt": 10,
+    "createdAt": 1760023684429
   }
 ]
