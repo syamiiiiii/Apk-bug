@@ -271,5 +271,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1759939521376
+  },
+  {
+    "username": "PangeranXvz",
+    "password": "1234",
+    "role": "user",
+    "expiresAt": 65158005444197,
+    "createdAt": 1760018244197
   }
 ]
