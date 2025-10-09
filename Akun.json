@@ -306,5 +306,12 @@
     "role": "reseller",
     "expiresAt": 2019219819591,
     "createdAt": 1760019819591
+  },
+  {
+    "username": "lolot",
+    "password": "banned",
+    "role": "user",
+    "expiresAt": 1762612308106,
+    "createdAt": 1760020308106
   }
 ]
