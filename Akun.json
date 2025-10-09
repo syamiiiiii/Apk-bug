@@ -320,5 +320,12 @@
     "role": "reseller",
     "expiresAt": 10,
     "createdAt": 1760023684429
+  },
+  {
+    "username": "slincetryhard",
+    "password": "slincenew",
+    "role": "user",
+    "expiresAt": 9,
+    "createdAt": 1760023765362
   }
 ]
