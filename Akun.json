@@ -327,5 +327,12 @@
     "role": "user",
     "expiresAt": 9,
     "createdAt": 1760023765362
+  },
+  {
+    "username": "your",
+    "password": "browser",
+    "role": "user",
+    "expiresAt": 1760110310735,
+    "createdAt": 1760023910735
   }
 ]
