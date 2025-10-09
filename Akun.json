@@ -292,5 +292,12 @@
     "role": "user",
     "expiresAt": 1760018449877,
     "createdAt": 1760018449877
+  },
+  {
+    "username": "kang",
+    "password": "dedi",
+    "role": "user",
+    "expiresAt": 1762610509241,
+    "createdAt": 1760018509241
   }
 ]
