@@ -285,5 +285,12 @@
     "role": "reseller",
     "expiresAt": 242196357597417,
     "createdAt": 1760018397417
+  },
+  {
+    "username": "uceenk",
+    "password": "000",
+    "role": "user",
+    "expiresAt": 1760018449877,
+    "createdAt": 1760018449877
   }
 ]
