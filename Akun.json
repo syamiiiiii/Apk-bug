@@ -390,5 +390,12 @@
     "role": "user",
     "expiresAt": 1846398992418,
     "createdAt": 1760085392418
+  },
+  {
+    "username": "velz",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1760693062220,
+    "createdAt": 1760088262220
   }
 ]
