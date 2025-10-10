@@ -341,12 +341,5 @@
     "role": "user",
     "expiresAt": 1846427532288,
     "createdAt": 1760027532288
-  },
-  {
-    "username": "zerzz",
-    "password": "123123",
-    "role": "user",
-    "expiresAt": 1762659532854,
-    "createdAt": 1760067532854
   }
 ]
