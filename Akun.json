@@ -26,5 +26,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1760108468431
+  },
+  {
+    "username": "vin",
+    "password": "123",
+    "role": "reseller",
+    "expiresAt": 2624108732915,
+    "createdAt": 1760108732915
   }
 ]
