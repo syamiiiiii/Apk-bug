@@ -33,12 +33,5 @@
     "role": "user",
     "expiresAt": 1762688481903,
     "createdAt": 1760096481903
-  },
-  {
-    "username": "dimz",
-    "password": "asep",
-    "role": "user",
-    "expiresAt": 1760701352808,
-    "createdAt": 1760096552808
   }
 ]
