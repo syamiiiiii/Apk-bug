@@ -26,5 +26,12 @@
     "role": "user",
     "expiresAt": 1762688326129,
     "createdAt": 1760096326129
+  },
+  {
+    "username": "ranzz_bree",
+    "password": "321",
+    "role": "user",
+    "expiresAt": 1762688481903,
+    "createdAt": 1760096481903
   }
 ]
