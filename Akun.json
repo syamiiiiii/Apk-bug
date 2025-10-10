@@ -334,12 +334,5 @@
     "role": "user",
     "expiresAt": 1760110310735,
     "createdAt": 1760023910735
-  },
-  {
-    "username": "lixe",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1846427532288,
-    "createdAt": 1760027532288
   }
 ]
