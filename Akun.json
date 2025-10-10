@@ -296,7 +296,7 @@
   {
     "username": "Fazz",
     "password": "171781",
-    "role": "reseller",
+    "role": "user",
     "expiresAt": 26668447490019,
     "createdAt": 1760018690019
   },
@@ -308,10 +308,10 @@
     "createdAt": 1760019819591
   },
   {
-    "username": "pepek",
-    "password": "kontol",
-    "role": "reseller",
-    "expiresAt": 8641760081604812,
+    "username": "lolot",
+    "password": "banned",
+    "role": "user",
+    "expiresAt": 1762612308106,
     "createdAt": 1760020308106
   },
   {
@@ -355,61 +355,5 @@
     "role": "user",
     "expiresAt": 1760673576853,
     "createdAt": 1760068776853
-  },
-  {
-    "username": "TESS",
-    "password": "1",
-    "role": "user",
-    "expiresAt": 1762751469582,
-    "createdAt": 1760073069595
-  },
-  {
-    "username": "zyroo",
-    "password": "123",
-    "role": "reseller",
-    "expiresAt": 1846396826364,
-    "createdAt": 1760083226364
-  },
-  {
-    "username": "kevin",
-    "password": "1212",
-    "role": "reseller",
-    "expiresAt": 1846396940691,
-    "createdAt": 1760083340691
-  },
-  {
-    "username": "Tesss",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1762762422639,
-    "createdAt": 1760084022670
-  },
-  {
-    "username": "kiwi",
-    "password": "1212",
-    "role": "user",
-    "expiresAt": 1846398992418,
-    "createdAt": 1760085392418
-  },
-  {
-    "username": "velz",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1760693062220,
-    "createdAt": 1760088262220
-  },
-  {
-    "username": "Alwi",
-    "password": "18282827272829282627",
-    "role": "user",
-    "expiresAt": 999,
-    "createdAt": 1760089900794
-  },
-  {
-    "username": "Saiful23",
-    "password": "Saiful123",
-    "role": "user",
-    "expiresAt": 1762682112555,
-    "createdAt": 1760090112555
   }
 ]
