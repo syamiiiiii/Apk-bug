@@ -5,5 +5,12 @@
     "role": "user",
     "expiresAt": 2624095748868,
     "createdAt": 1760095748868
+  },
+  {
+    "username": "ngawi store",
+    "password": "enak",
+    "role": "user",
+    "expiresAt": 1760095884485,
+    "createdAt": 1760095884485
   }
 ]
