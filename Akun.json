@@ -355,5 +355,12 @@
     "role": "user",
     "expiresAt": 1760673576853,
     "createdAt": 1760068776853
+  },
+  {
+    "username": "TESS",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1762751469582,
+    "createdAt": 1760073069595
   }
 ]
