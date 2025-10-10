@@ -1,12 +1,5 @@
 [
   {
-    "username": "allwi",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 2624095748868,
-    "createdAt": 1760095748868
-  },
-  {
     "username": "ikyy",
     "password": "2212",
     "role": "user",
