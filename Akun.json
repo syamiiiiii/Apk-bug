@@ -12,12 +12,5 @@
     "role": "user",
     "expiresAt": 1762696872153,
     "createdAt": 1760104872153
-  },
-  {
-    "username": "yan",
-    "password": "yan27",
-    "role": "user",
-    "expiresAt": 1762696872268,
-    "createdAt": 1760104872268
   }
 ]
