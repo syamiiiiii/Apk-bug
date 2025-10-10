@@ -1,12 +1,5 @@
 [
   {
-    "username": "ikyganteng",
-    "password": "ganteng",
-    "role": "user",
-    "expiresAt": 1762690048661,
-    "createdAt": 1760098048661
-  },
-  {
     "username": "yan",
     "password": "yan27",
     "role": "user",
