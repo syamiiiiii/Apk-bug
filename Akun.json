@@ -348,12 +348,5 @@
     "role": "user",
     "expiresAt": 1762659532854,
     "createdAt": 1760067532854
-  },
-  {
-    "username": "denz",
-    "password": "terserah",
-    "role": "user",
-    "expiresAt": 1760673576853,
-    "createdAt": 1760068776853
   }
 ]
