@@ -1,12 +1,5 @@
 [
   {
-    "username": "vin",
-    "password": "123",
-    "role": "reseller",
-    "expiresAt": 2624108732915,
-    "createdAt": 1760108732915
-  },
-  {
     "username": "slincetryhard",
     "password": "slin",
     "role": "user",
