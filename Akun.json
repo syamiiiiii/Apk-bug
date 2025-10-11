@@ -1,12 +1,5 @@
 [
   {
-    "username": "fanzzstore",
-    "password": "123",
-    "role": "user",
-    "expiresAt": 1762825380027,
-    "createdAt": 1760146980032
-  },
-  {
     "username": "yan",
     "password": "yan27",
     "role": "user",
