@@ -33,5 +33,12 @@
     "role": "user",
     "expiresAt": 1762777762007,
     "createdAt": 1760185762007
+  },
+  {
+    "username": "aliff",
+    "password": "123",
+    "role": "owner",
+    "expiresAt": 1768827197233,
+    "createdAt": 1760187197233
   }
 ]
