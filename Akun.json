@@ -54,5 +54,12 @@
     "role": "reseller",
     "expiresAt": 88160085617919,
     "createdAt": 1760172017919
+  },
+  {
+    "username": "ariff",
+    "password": "arif00",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1760172582260
   }
 ]
