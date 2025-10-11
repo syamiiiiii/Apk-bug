@@ -1,12 +1,5 @@
 [
   {
-    "username": "uceenk",
-    "password": "123",
-    "role": "reseller",
-    "expiresAt": 2624108209460,
-    "createdAt": 1760108209460
-  },
-  {
     "username": "admin",
     "password": "123",
     "role": "reseller",
