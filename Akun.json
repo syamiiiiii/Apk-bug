@@ -19,5 +19,12 @@
     "role": "user",
     "expiresAt": 1768835202834,
     "createdAt": 1760195202834
+  },
+  {
+    "username": "DAPI",
+    "password": "224466",
+    "role": "user",
+    "expiresAt": 1762787614660,
+    "createdAt": 1760195614660
   }
 ]
