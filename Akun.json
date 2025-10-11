@@ -1,12 +1,5 @@
 [
   {
-    "username": "yan",
-    "password": "yan27",
-    "role": "user",
-    "expiresAt": 1762739394245,
-    "createdAt": 1760147394245
-  },
-  {
     "username": "prezz",
     "password": "prezz62",
     "role": "reseller",
