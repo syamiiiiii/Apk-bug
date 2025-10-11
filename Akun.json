@@ -26,12 +26,5 @@
     "role": "reseller",
     "expiresAt": 88160078355709,
     "createdAt": 1760164755709
-  },
-  {
-    "username": "RAFFNEWERA",
-    "password": "RAFFNEWERA",
-    "role": "user",
-    "expiresAt": 1762767056244,
-    "createdAt": 1760175056244
   }
 ]
