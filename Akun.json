@@ -47,5 +47,12 @@
     "role": "user",
     "expiresAt": 1762762949720,
     "createdAt": 1760170949720
+  },
+  {
+    "username": "gacor",
+    "password": "1212",
+    "role": "reseller",
+    "expiresAt": 88160085617919,
+    "createdAt": 1760172017919
   }
 ]
