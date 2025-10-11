@@ -1,12 +1,5 @@
 [
   {
-    "username": "slincetryhard",
-    "password": "slin",
-    "role": "user",
-    "expiresAt": 1760801539704,
-    "createdAt": 1760110339704
-  },
-  {
     "username": "fanzzstore",
     "password": "123",
     "role": "user",
