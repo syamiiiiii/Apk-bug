@@ -1,12 +1,5 @@
 [
   {
-    "username": "zynxx",
-    "password": "zynxx12",
-    "role": "user",
-    "expiresAt": 1762834912179,
-    "createdAt": 1760156512181
-  },
-  {
     "username": "kill",
     "password": "killstore",
     "role": "reseller",
