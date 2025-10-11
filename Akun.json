@@ -1,12 +1,5 @@
 [
   {
-    "username": "admin",
-    "password": "123",
-    "role": "reseller",
-    "expiresAt": 2624108220004,
-    "createdAt": 1760108220004
-  },
-  {
     "username": "iky",
     "password": "2212",
     "role": "user",
