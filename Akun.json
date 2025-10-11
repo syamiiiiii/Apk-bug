@@ -1,12 +1,5 @@
 [
   {
-    "username": "iky",
-    "password": "2212",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1760108318607
-  },
-  {
     "username": "ranzz_bree",
     "password": "321",
     "role": "user",
