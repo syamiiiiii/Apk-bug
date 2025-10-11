@@ -1,12 +1,5 @@
 [
   {
-    "username": "aliff",
-    "password": "123",
-    "role": "owner",
-    "expiresAt": 1768827197233,
-    "createdAt": 1760187197233
-  },
-  {
     "username": "Arif",
     "password": "1",
     "role": "reseller",
