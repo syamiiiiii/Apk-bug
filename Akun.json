@@ -14,13 +14,6 @@
     "createdAt": 1760188109199
   },
   {
-    "username": "vin",
-    "password": "1",
-    "role": "reseller",
-    "expiresAt": 88160101727482,
-    "createdAt": 1760188127482
-  },
-  {
     "username": "zyroo",
     "password": "1",
     "role": "reseller",
