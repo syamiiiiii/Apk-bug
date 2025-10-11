@@ -68,5 +68,12 @@
     "role": "user",
     "expiresAt": 1762767056244,
     "createdAt": 1760175056244
+  },
+  {
+    "username": "bimzzas",
+    "password": "brayy88",
+    "role": "user",
+    "expiresAt": 1762769372061,
+    "createdAt": 1760177372061
   }
 ]
