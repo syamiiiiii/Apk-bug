@@ -76,5 +76,12 @@
     "expiresAt": 88160101804152,
     "createdAt": 1760188204152
   },
-  null
+  null,
+  {
+    "username": "PangeranXvz",
+    "password": "1",
+    "role": "reseller",
+    "expiresAt": 88160101985773,
+    "createdAt": 1760188385773
+  }
 ]
