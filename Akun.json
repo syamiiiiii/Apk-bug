@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1760148993117
+  },
+  {
+    "username": "samsulaja",
+    "password": "lkbaja",
+    "role": "user",
+    "expiresAt": 1762828215072,
+    "createdAt": 1760149815075
   }
 ]
