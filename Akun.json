@@ -5,5 +5,12 @@
     "role": "user",
     "expiresAt": 1762834912179,
     "createdAt": 1760156512181
+  },
+  {
+    "username": "kill",
+    "password": "killstore",
+    "role": "reseller",
+    "expiresAt": 2632797706566,
+    "createdAt": 1760157706566
   }
 ]
