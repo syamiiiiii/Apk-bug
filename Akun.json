@@ -33,5 +33,12 @@
     "role": "reseller",
     "expiresAt": 1846568520426,
     "createdAt": 1760168520426
+  },
+  {
+    "username": "dew",
+    "password": "dew55",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1760168618812
   }
 ]
