@@ -26,5 +26,12 @@
     "role": "reseller",
     "expiresAt": 88160078355709,
     "createdAt": 1760164755709
+  },
+  {
+    "username": "prezz",
+    "password": "prezzz86",
+    "role": "reseller",
+    "expiresAt": 1846568520426,
+    "createdAt": 1760168520426
   }
 ]
