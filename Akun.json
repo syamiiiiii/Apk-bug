@@ -76,5 +76,12 @@
     "role": "reseller",
     "expiresAt": 88160101985773,
     "createdAt": 1760188385773
+  },
+  {
+    "username": "bimzzas",
+    "password": "brayy88",
+    "role": "user",
+    "expiresAt": 1762781627408,
+    "createdAt": 1760189627408
   }
 ]
