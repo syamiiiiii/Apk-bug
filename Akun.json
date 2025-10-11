@@ -1,12 +1,5 @@
 [
   {
-    "username": "Arif",
-    "password": "1",
-    "role": "reseller",
-    "expiresAt": 88160100904368,
-    "createdAt": 1760187304368
-  },
-  {
     "username": "prezz",
     "password": "prezzbuyerkil",
     "role": "reseller",
