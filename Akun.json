@@ -12,5 +12,12 @@
     "role": "reseller",
     "expiresAt": 1762775130533,
     "createdAt": 1760183130533
+  },
+  {
+    "username": "Yan",
+    "password": "yan21",
+    "role": "user",
+    "expiresAt": 1762776387137,
+    "createdAt": 1760184387137
   }
 ]
