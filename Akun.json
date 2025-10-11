@@ -12,5 +12,12 @@
     "role": "reseller",
     "expiresAt": 88160107717765,
     "createdAt": 1760194117765
+  },
+  {
+    "username": "Ditz",
+    "password": "KylX",
+    "role": "user",
+    "expiresAt": 1768835202834,
+    "createdAt": 1760195202834
   }
 ]
