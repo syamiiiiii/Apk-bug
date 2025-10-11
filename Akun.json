@@ -1,12 +1,5 @@
 [
   {
-    "username": "ranzz_bree",
-    "password": "321",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1760108468431
-  },
-  {
     "username": "vin",
     "password": "123",
     "role": "reseller",
